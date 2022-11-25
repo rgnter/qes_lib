@@ -1,5 +1,13 @@
-# draft
-This library buit for signing, sealing and verifying various documents with QES(eIDAS compliant) technology.
+# WIP draft for SOČ
+This library built for signing, sealing and verifying various documents with QES(eIDAS compliant) technology.
+
+## Bindings
+- [x] C
+- [ ] C# 
+- [ ] Python
+- [x] Java
+- [x] Go
+- [ ] Rust
 
 ## QES AdES roadmap
 Supported **Ad**vanced **E**lectronic **S**ignatures
